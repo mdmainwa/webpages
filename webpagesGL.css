@@ -1,0 +1,21 @@
+/*
+ *Name: [Miles Mainwaring Foster]
+ *UnityID: [mdmainwa]
+ *Date: [4/9/22]
+ *Assignment: [webpagesGL.css]
+ *Description: [Guided lab assignment, about me]
+ */
+ 
+p {
+    font-family:Times;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+.class {
+    property: value;
+}
+
+#id {
+    property:value;
+}
